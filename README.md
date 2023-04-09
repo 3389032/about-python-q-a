@@ -1,2 +1,2 @@
-# about-python-q-a
+# python-QA
 sometimes come up with some questions
